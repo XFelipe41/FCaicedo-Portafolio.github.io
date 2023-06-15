@@ -106,7 +106,7 @@
 @media (max-width: 767px) {
 
   .home__background {
-    background-image: url(./assets/bg-41Ress.jpg);
+    background-image: url(../assets/bg-41Ress.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;

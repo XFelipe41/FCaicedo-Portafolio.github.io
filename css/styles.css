@@ -120,7 +120,7 @@ section {
 
 .home__background {
   background-color: #8e8e8e;
-  background-image: url(./assets/bg-41.jpg);
+  background-image: url(../assets/bg-41.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
